@@ -1,0 +1,9 @@
+This is a placeholder for requirements.txt
+- Install phyton new version
+- install pip
+
+==============
+pip install pyinstaller
+python Folder_Generator.py >> untuk menjalanan script dengan terminal
+pip install python-docx >> untuk create file ms word
+pyinstaller --onefile --windowed --icon=logo.ico Folder_Generator.py >> compile script menjadi .exe
