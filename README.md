@@ -11,6 +11,7 @@ JUST BETA HEHEHE
 - Log of all operations saved to `log.txt`
 
 ===================================================
+
 cara menggunakan :
 1. clone folder ini atau unduh secara manual 
     note: ada file script dan aplikasi,, pakai yang aplikasi saja biar enak
