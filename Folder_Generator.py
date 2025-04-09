@@ -42,6 +42,8 @@ def generate_folders_and_docs():
         run = paragraph.add_run("UNDANGAN WEB FOTO \nDESAIN NO.\n")
         run.bold = True
         paragraph.alignment = 1  # Center
+        run.font.name = 'Cambria'
+        run.font.size = Pt(14)
 
         # Keterangan Kiri dan Bold
         paragraph2 = doc.add_paragraph()
