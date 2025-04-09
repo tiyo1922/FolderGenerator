@@ -25,3 +25,10 @@ cara menggunakan :
 5. click Generate untuk eksekusi
 
 Happy Working hahahaha -----
+
+=LET(
+    jumlah, 1000,
+    nomor, SEQUENCE(jumlah),
+    "25PR" & TEXT(nomor, "000")
+)
+
